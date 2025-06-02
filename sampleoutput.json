@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "West Midlands housing estates plagued with constant problems",
+            "description": "Residents at new housing estates in the West Midlands describe living with landslips and broken street lights.",
+            "url": "https://www.bbc.co.uk/news/articles/c70ze74l6jpo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/71e8/live/c48116e0-2b14-11f0-b26b-ab62c890638b.jpg",
+            "publishedAt": "2025-05-07T11:37:26.2899656Z",
+            "content": "The landslip at Christmas saw soil and clay spill across the road and on to Mr Aleksander's drive.\r\nHowever, residents said subsidence in Haden Cross Drive first became evident in January 2024 when a… [+636 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Final designs revealed for Queen Elizabeth memorial",
+            "description": "The memorial commemorating the monarch will be built at St James's Park in central London.",
+            "url": "https://www.bbc.co.uk/news/articles/c9w8wlqxxl0o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc1c/live/be965280-2a9d-11f0-a09e-c5bdc3540c45.jpg",
+            "publishedAt": "2025-05-07T11:37:21.6348747Z",
+            "content": "The public is being encouraged to contribute ideas about the memorial and to give feedback on the shortlisted designs.\r\n\"We want public engagement, we want the public to comment on these proposals, b… [+602 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Cardiff hospital tolerated drugs and theft by staff - report",
+            "description": "Another review is under way into allegations staff allowed people into operating theatres.",
+            "url": "https://www.bbc.co.uk/news/articles/cx202ylne5go",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e9d9/live/b89a7310-2b16-11f0-b529-c16ee4c6840a.jpg",
+            "publishedAt": "2025-05-07T11:22:25.1963075Z",
+            "content": "An anonymous complaint of racism was also made to management and the Nursing and Midwifery Council - an investigation was held and the person accused was suspended, but no further action was taken as… [+1051 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Kashmir: Why India and Pakistan fight over it",
+            "description": "They fought two wars over it and are nuclear armed - but what's at the root of the dispute?",
+            "url": "https://www.bbc.co.uk/news/10537286",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8B7A/production/_105660753_mediaitem105660752.jpg",
+            "publishedAt": "2025-05-07T11:22:22.4938549Z",
+            "content": "Within Kashmir, opinions about the territory's rightful allegiance are diverse and strongly held. Many do not want it to be governed by India, preferring either independence or union with Pakistan in… [+1595 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Five takeaways from Biden's BBC interview",
+            "description": "The former president defended his decision to drop out of the 2024 campaign when he did, in a wide-ranging interview with the BBC.",
+            "url": "https://www.bbc.co.uk/news/articles/c39j91ljmyeo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/87a1/live/5837baf0-2b2f-11f0-8ff1-59f5dcf8e9f5.jpg",
+            "publishedAt": "2025-05-07T10:52:21.9009975Z",
+            "content": "Biden's ill-fated decision to seek a second presidential term may haunt Democrats for a generation. Three months removed from power, however, the former president said he didn't think \"it would have … [+988 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "The wedding with almost 100 bridesmaids",
+            "description": "The average number of bridesmaids for a wedding in the UK is about three to five.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g4gwj7vpxo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e7a4/live/db2bb410-2a9a-11f0-b5be-e7b02e379544.jpg",
+            "publishedAt": "2025-05-07T10:07:18.26005Z",
+            "content": "Ms McGowan said as soon as the couple got engaged they were debating how many bridesmaids was too many.\r\n\"I was thinking and thinking about how it was going to work and I thought in my head, what's t… [+698 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Government defends National Insurance exemption in UK-India deal",
+            "description": "Opposition parties claim the new trade agreement means Indian workers will be cheaper for employers to hire.",
+            "url": "https://www.bbc.co.uk/news/articles/czrvr1plxn6o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c4f5/live/c8f057e0-2b14-11f0-92a1-23d1e91e0443.jpg",
+            "publishedAt": "2025-05-07T08:52:24.3228742Z",
+            "content": "But Reynolds said the deal would not impact British workers, pointing out the UK has 16 agreements preventing double taxation of work, which cover more than 50 countries - including the US, EU and So… [+872 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Criminals who skip sentencing could face two more years in jail",
+            "description": "A new bill providing powers for judges to punish offenders will be introduced to Parliament on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c3676x0k646o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0291/live/cdaa8af0-2b1c-11f0-8f57-b7237f6a66e6.png",
+            "publishedAt": "2025-05-07T08:37:23.8687748Z",
+            "content": "In January, Prime Minister Sir Keir Starmer promised to follow through on the legislation - initiated by the previous Conservative government - after meeting Cheryl Korbel.\r\nHer daughter, Olivia Prat… [+818 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Biden BBC interview: Trump appeasing Putin with pressure on Ukraine",
+            "description": "In his first interview since leaving office, the 82-year-old criticises his successor's handling of the war and is challenged on his own record.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m9mvemxrwo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6a47/live/6b2841e0-2aab-11f0-8f57-b7237f6a66e6.jpg",
+            "publishedAt": "2025-05-07T05:22:15.5715145Z",
+            "content": "Trump has said he expects Russia to keep the Crimean peninsula, which was illegally annexed by Moscow in 2014, and last month he accused Ukraine's leader Volodymyr Zelensky of harming peace negotiati… [+1901 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "What we know about India's strike on Pakistan and Pakistan-administered Kashmir",
+            "description": "India launched strikes in the early hours of Wednesday - two weeks after a deadly militant attack.",
+            "url": "https://www.bbc.co.uk/news/articles/cj6868pdpw4o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e6e6/live/82407740-2adc-11f0-8f57-b7237f6a66e6.jpg",
+            "publishedAt": "2025-05-07T01:37:20.309927Z",
+            "content": "Kashmir is claimed in full by India and Pakistan, but administered only in part by each since they were partitioned in 1947.\r\nThe countries have fought two wars over it.\r\nBut more recently, it has be… [+1279 chars]"
+        }
+    ]
+}
